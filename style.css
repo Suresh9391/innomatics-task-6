@@ -1,0 +1,76 @@
+.bg-container{
+    background-color:orangered;
+    height:100vh;
+}
+.bg-heading{
+    color:black;
+    font-size:40px;
+    font-family:"Roboto";
+    font-weight:bold;
+    text-align:center;
+    margin-top:15px;
+    margin-bottom:15px;
+}
+.todo-input{
+    width:100%;
+    border-width:1px;
+    border-radius:10px;
+    border-color:skyblue;
+    padding:20px;
+    margin-bottom:20px;
+}
+.button{
+   width:80px;
+   height:40px;
+   color:black;
+   font-weight:bold;
+   font-family:"Roboto";
+   border:0px;
+   margin-bottom:20px;
+   margin-top:20px;
+}
+.list-container{
+    margin-top:15px;
+}
+.todo-items{
+    margin:0px;
+    padding:0px;
+}
+.checkbox-item{
+    height:20px;
+    width:20px;
+    margin-right:15px;
+    margin-bottom:15px;
+    margin-top:20px;
+}
+.label-container{
+    background-color:greenyellow;
+    width:100%;
+    border-style:solid;
+    border-width:7px;
+    border-top:none;
+    border-right:none;
+    border-bottom:none;
+    border-radius:7px;
+    border-color:blueviolet;
+}
+.label-item{
+   font-size:20px;
+   font-family:"Roboto";
+   padding-top:10px;
+   padding-bottom:10px;
+   padding-left:15px;
+   padding-right:15px;
+   font-weight:bold;
+   margin:0px;
+}
+.delete-items{
+    text-align:right;
+    width:100%;
+}
+.icon{
+    padding:15px;
+}
+.status{
+    text-decoration:line-through;
+}
